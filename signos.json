@@ -1,0 +1,86 @@
+[
+    {
+        "nombre": "Aries",
+        "descripcion": "Es el signo del carnero. Aries se caracteriza por su valentía, audacia y determinación.",
+        "fechaInicio": "21-03",
+        "fechaFin": "19-04",
+        "elemento": "Fuego"
+    },
+    {
+        "nombre": "Tauro",
+        "descripcion": "Es el signo del toro, es fuerte, paciente y constante",
+        "fechaInicio": "20-04",
+        "fechaFin": "20-05",
+        "elemento": "Tierra"
+    },
+    {
+        "nombre": "Géminis",
+        "descripcion": "Es el signo de los gemelos, es curioso, cambiante y sociable",
+        "fechaInicio": "21-05",
+        "fechaFin": "20-06",
+        "elemento": "Aire"
+    },
+    {
+        "nombre": "Cáncer",
+        "descripcion": "Es el signo de la casa, es emocional, protector y sentimental",
+        "fechaInicio": "21-06",
+        "fechaFin": "22-07",
+        "elemento": "Agua"
+    },
+    {
+        "nombre": "Leo",
+        "descripcion": "Es el signo del león, es orgulloso, generoso y apasionado",
+        "fechaInicio": "23-07",
+        "fechaFin": "22-08",
+        "elemento": "Fuego"
+    },
+    {
+        "nombre": "Virgo",
+        "descripcion": "Es el signo de la virgen, es analítico, prudente y metódico",
+        "fechaInicio": "23-08",
+        "fechaFin": "22-09",
+        "elemento": "Tierra"
+    },
+    {
+        "nombre": "Libra",
+        "descripcion": "Es el signo de la balanza, es justo, diplomático y sociable",
+        "fechaInicio": "23-09",
+        "fechaFin": "22-10",
+        "elemento": "Aire"
+    },
+    {
+        "nombre": "Escorpio",
+        "descripcion": "Es el signo del escorpio, es pasional, intuitivo y misterioso",
+        "fechaInicio": "23-10",
+        "fechaFin": "21-11",
+        "elemento": "Agua"
+    },
+    {
+        "nombre": "Sagitario",
+        "descripcion": "Es el signo del sagitario, es decidido, decidido y decidido",
+        "fechaInicio": "22-11",
+        "fechaFin": "21-12",
+        "elemento": "Fuego"
+    },
+    {
+        "nombre": "Capricornio",
+        "descripcion": "Es el signo del capricornio, es decidido, decidido y decidido",
+        "fechaInicio": "22-12",
+        "fechaFin": "19-01",
+        "elemento": "Tierra"
+    },
+    {
+        "nombre": "Acuario",
+        "descripcion": "Es el signo del acuario, es decidido, decidido y decidido",
+        "fechaInicio": "20-01",
+        "fechaFin": "20-02",
+        "elemento": "Aire"
+    },
+    {
+        "nombre": "Piscis",
+        "descripcion": "Es el signo del piscis, es decidido, decidido y decidido",
+        "fechaInicio": "21-02",
+        "fechaFin": "19-03",
+        "elemento": "Agua"
+    }
+]

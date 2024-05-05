@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <!-- link boostrap -->
+    <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+    crossorigin="anonymous"
+/>
+<title>Signo Solar</title>
+
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tu Signo Solar</h1>
+        </header>
+        <div>
+            <h2 class="titulo" id="cartanatal"></h2>
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="Ingresa tu fecha de nacimiento en el formato DD-MM (ejemplo: 21-03)" aria-label="Ingresa tu fecha de nacimiento" id="fechaInput">
+                <button class="btn btn-outline-secondary" type="button" id="boton1">Obtener Signo Solar</button>
+            </div>
+            <div id="resultado"></div>
+
+            <section>
+                <h4 class="titulotabla">Resultado:</h4>
+                <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Signo Solar</th>
+                        <th>Descripción</th>
+                        <th>Fecha de Inicio</th>
+                        <th>Fecha de Fin</th>
+                        <th>Elemento</th>
+                    </tr>
+                </thead>
+                <tbody id="tablabody">
+                    <!-- tabla resultados -->
+                </tbody>
+                </table>
+            </section>
+    </div>
+    <script src="Signos.js"></script>
+    <script src="operaciones.js"></script>
+</body>
+</html>

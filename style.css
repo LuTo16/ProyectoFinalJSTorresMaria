@@ -1,0 +1,83 @@
+*{margin: 0;
+    padding: 0;
+    }
+    
+    body{    
+        background-color: rgb(255, 255, 255);
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        background-image: url('fondo.jpg'); 
+        background-size: cover;
+        background-repeat: no-repeat; 
+    
+    }
+    
+    
+    header {
+        background-color: white;
+        text-align: center; 
+        border: 4px solid blueviolet;
+    }
+    
+    h1 {
+        color: black; 
+    }
+    
+    .card-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; 
+    }
+    
+    h2.titulo {
+        color: white;
+        background-color: rgba(27, 26, 27, 0.281); 
+        font-style: italic;
+        padding: 15px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    
+    
+    /*fecha.html*/
+    table {
+        background-color: white;
+    }
+    
+    .btn {
+        background-color: white;
+    }
+    
+    .titulotabla {
+        color: blueviolet;
+        font-size: 35px;
+        font-style: italic;
+    }
+    
+    
+    #boton1 {
+        background-color: blueviolet;
+        color: black;
+    }
+    
+    /*descripcion.html*/
+    
+    #boton2 {
+        background-color: blueviolet;
+        color: black;
+    }
+    
+    
+    #resultado {
+        background-color: white;
+    }
+    
+    .significado {
+        width: 50%; 
+        margin: 0 auto; 
+        padding: 20px; 
+        background-color: white; 
+        border: 8px solid blueviolet;    
+    }
